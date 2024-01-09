@@ -22,16 +22,15 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile-1](https://raw.github.com/Alokray007/Interactive-Rating-Component-FM/main/screenshots/mobile-design.png)
+![mobile](https://raw.github.com/Alokray007/Interactive-Rating-Component-FM/main/screenshots/mobile-design.png)
 ![desktop](https://raw.github.com/Alokray007/Interactive-Rating-Component-FM/main/screenshots/desktop-design.png)
-![mobile-thankyou](https://raw.github.com/Alokray007/Interactive-Rating-Component-FM/main/screenshots/mobile-thank-you-state.png)
-![desktop-thankyou](https://raw.github.com/Alokray007/Interactive-Rating-Component-FM/main/screenshots/desktop-thank-you-state.png)
+![active-states](https://raw.github.com/Alokray007/Interactive-Rating-Component-FM/main/screenshots/active-states.png)
 
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Alokray007/Interactive-Rating-Component-FM)
-- Live Site URL: [Netlify- Live Site](https://iratingcomp.netlify.app/)
+- Solution URL: [Github](https://github.com/Alokray007/Blog-Preview-Card-FM)
+- Live Site URL: [Netlify- Live Site](https://blogprev.netlify.app.netlify.app/)
 
 ## My process
 
